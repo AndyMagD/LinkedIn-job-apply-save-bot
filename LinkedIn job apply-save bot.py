@@ -1,6 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-import secret  # Hidden personal information used for loging in
+import secret  # Hidden personal information used for logging in
 import time
 
 options = webdriver.ChromeOptions()
